@@ -1,9 +1,17 @@
 # Biography
 
-This is a book created from markdown and executable code.
-
-See @knuth84 for additional discussion of literate programming.
-
-```{r}
-1 + 1
+```{r echo=FALSE, out.width="100%", fig.align='center', cache=TRUE}
+knitr::include_graphics('/Users/sophiac/Desktop/portfolio/port_figures/recital.jpeg')
 ```
+
+Shirley Cheung, a native of Hong Kong, embarked her musical journey at a young age,revealing an innate talent that would later blossom into a versatile and accomplished musician. Born and raised in the vibrant city, Shirley's early exposure to music has driven her towards the enchanting world of music
+
+Her fascination with the flute took root in her formative years, shaping her into a musician with a profound connection to this elegant instrument. Blessed with a strong musical sense and the privilege of attending a specialized music school, Shirley's repertoire expanded to include not only the flute but also the piano and bassoon, showcasing her exceptional versatility.
+
+Shirley pursued her higher education at the Baptist University Hong Kong, where she delved deeper into the realm of music. Enrolling in the [Bachelor of Arts (Hons) in Music](https://mus.hkbu.edu.hk/programmes/ba) programme, she majored in flute under the guidance of Olivier Nowak, Co-Principal Flute at the Hong Kong Philharmonic Orchestra. Her academic journey was enriched by active participation in various musical ensembles, such as the HKBU Orchestra, HKBU Wind Band, and HKBU Choir, providing her with invaluable musical knowledge and practical skills.
+
+Shirley's exposure to diverse musical genres fueled her creativity, inspiring her to experiment with new ideas in composition. While her focus leaned towards music composition, she remained dedicated to playing the flute, she worked with several symphony orchestras, including Hong Kong Wind Philharmonia, the Learners Orchestra and Ponte Orchestra. Through these experiences, she honed her performance skills and solidified her position as a well-rounded musician.
+
+Undeterred by her achievements, Shirley's unwavering passion for the flute propelled her to pursue a Master's degree in Music at the Hong Kong Academy of Performing Arts (HKAPA). Under the tutelage of esteemed mentors, she further refined her craft, reaching a professional standard at a high artistic level. Her commitment to musical excellence was evident through her active participation in solo, ensemble, and orchestral performances, where she continued to expand her knowledge and contribute to the rich tapestry of the Hong Kong music scene.
+
+Shirley Cheung stands as a testament to the transformative power of dedication and passion in the world of music, leaving an indelible mark on the Hong Kong musical landscape.
