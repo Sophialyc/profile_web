@@ -1,23 +1,45 @@
+
 project:
   type: book
 
 book:
-  title: "portfolio"
-  author: "Norah Jones"
-  date: "1/23/2024"
+  title: "Shirley Cheung" 
+  navbar: 
+    logo: port_figures/2.png
+    collapse: true
+    collapse-below: lg
+    background: "light"
+    style: "docked"
+    search: true
+    right:
+      - icon: github
+    pinned: true
+    align: center
+  sidebar:
+    title: "Profile"
+    style: floating
+    reader-mode: true
+  repo-url: https://github.com/Sophialyc/profile_web.git
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
 
+reader-mode: true
+
 bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
-editor: visual
+    theme:
+      light: [Lux, flatly]
+      dark: [Lux,darkly, dark.css]
+    css: styles.css
+    toc: true
+    toc-location: right
+    title-block-banner: "port_figures/banner.JPG"
+    title-block-style: default
+    title-block-categories: false
+    title-block-banner-color: "body"
 

@@ -1,9 +1,5 @@
-# Preface {.unnumbered}
-
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
+```{r echo=FALSE, out.width="100%", fig.align='center', cache=TRUE}
+knitr::include_graphics('/Users/sophiac/Desktop/portfolio/port_figures/shirley.jpeg')
 ```
+
+\### Flute · Piccolo · Bassoon · Piano
